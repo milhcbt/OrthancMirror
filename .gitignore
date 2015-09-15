@@ -1,0 +1,6 @@
+.hg
+.DS_STORE
+*.box
+.vagrant/
+OrthancStorage/
+ThirdPartyDownloads/
